@@ -1,0 +1,39 @@
+{
+  "network": {
+    "rpc": "",
+    "ws": "",
+    "blockEngineUrl": "ny.mainnet.block-engine.jito.wtf"
+  },
+  "trading": {
+    "delay": 5000,
+    "slippage": 0.15,
+    "buyLimits": {
+      "minBuy": "0.01",
+      "maxBuy": "0.05",
+      "microBuyAmount": "0.0001"
+    }
+  },
+  "compute": {
+    "computeUnit": "100000",
+    "computeLimit": "20000000"
+  },
+  "jito": {
+    "enabled": true,
+    "tipPK": "",
+    "tipAmount": "0.0001",
+    "tipAccounts": [
+      "96gYZGLnJYVFmbjzopPSU6QiEV5fGqZNyN9nmNhvrZU5",
+      "HFqU5x63VTqvQss8hp11i4wVV8bD44PvwucfZ2bU7gRe",
+      "Cw8CFyM9FkoMi7K7Crf6HNQqf4uEMzpKw6QNghXLvLkY",
+      "ADaUMid9yfUytqMBgopwjb2DTLSokTSzL1zt6iGPaS49",
+      "DfXygSm4jCyNCybVYYK6DwvWqjKee8pbDmJGcLWNDXjh",
+      "ADuUkR4vqLUMWXxW9gh6D6L8pMSawimctcNZ5pGwDcEt",
+      "DttWaMuVvTiduZRnguLF7jNxTgiMBZ1hyAumKUiL2KRL",
+      "3AVi9Tg9Uo68tJfuvoKvqKNWKkC5wPdSSdeBnizKZ6jT"
+    ]
+  },
+  "wallets": {
+    "sender": "",
+    "devWallet": ""
+  }
+}
